@@ -11,6 +11,7 @@ namespace ManageProducao.Api
     {
         protected void Application_Start()
         {
+            System.Data.Entity.Database.SetInitializer(new Data.SampleData());
             GlobalConfiguration.Configure(WebApiConfig.Register);
         }
     }
