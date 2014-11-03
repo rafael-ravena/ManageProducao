@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageProducao.Api", "ManageProducao.Api\ManageProducao.Api.csproj", "{FF1D7F9F-3F6D-447A-9E86-9CD994433607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageProducao.WebApp", "ManageProducao.WebApp\ManageProducao.WebApp.csproj", "{0B4021B7-0DA6-498C-91DF-E3A6C84BADF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1D7F9F-3F6D-447A-9E86-9CD994433607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1D7F9F-3F6D-447A-9E86-9CD994433607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1D7F9F-3F6D-447A-9E86-9CD994433607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1D7F9F-3F6D-447A-9E86-9CD994433607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4021B7-0DA6-498C-91DF-E3A6C84BADF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4021B7-0DA6-498C-91DF-E3A6C84BADF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4021B7-0DA6-498C-91DF-E3A6C84BADF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4021B7-0DA6-498C-91DF-E3A6C84BADF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
